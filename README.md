@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
-- 👨‍💻 My Portfolio Website [My Portfolio Website](https://github.com/MuhammadAhmadAslamAslam/Personal-Portfolio)
+- 👨‍💻 My Portfolio Website [My Portfolio Website](https://github.com/MuhammadAhmadAslam/Personal-Portfolio)
 
 - 💬 Ask me about **MERN Stack Development (MongoDB ReactJS ReactNative NextJS NodeJS HTML CSS JS)**
 
