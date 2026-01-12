@@ -5,7 +5,7 @@
 -->
 
 <!-- Primary Banner -->
-![Muhammad Ahmad Aslam - Full Stack Developer | MERN Stack | TwelveMonday | Boundless Technologies](https://github.com/MuhammadAhmadAslam/MuhammadAhmadAslam/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
+![Muhammad Ahmad Aslam - Full Stack Developer | MERN Stack | TwelveMonday | Boundless Technologies](https://github.com/MuhammadAhmadAslam/MuhammadAhmadAslam/blob/main/cover-image.png?raw=true?raw=true)
 
 <h1 align="center"><strong>Muhammad Ahmad Aslam | MERN Stack & Full Stack Developer</strong></h1>
 
